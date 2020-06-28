@@ -18,4 +18,4 @@
 - ve tekrar aynı dosya yolunda "php artisan serve" komutu ile projemizin çalışmasını sağlıyoruz.
 
 
-<p align="center"><img src="{{asset('images/calisma1.jpg')}}" width="400"></p>
+<p align="center"><img src="https://github.com/DogusOzan/enuygunTasks/tree/master/public/images/calisma1.jpg" width="400"></p>
