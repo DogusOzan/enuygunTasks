@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'indexController@index')->name('index');
+Route::get('/alltasks','taskController@index')->name('tasks');
