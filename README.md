@@ -17,5 +17,4 @@
 " komutu ile web apiden gelen verileri oluşturduğumuz gorevlist tablosuna kayıt ediyoruz.
 - ve tekrar aynı dosya yolunda "php artisan serve" komutu ile projemizin çalışmasını sağlıyoruz.
 
-
-<p align="center"><img src="https://github.com/DogusOzan/enuygunTasks/public/images/calisma1.jpg" width="400"></p>
+![alt text](https://github.com/DogusOzan/enuygunTasks/tree/master/public/images/calisma1.jpg)
